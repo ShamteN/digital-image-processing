@@ -24,4 +24,5 @@ python opening\main.py
 ```
 
 ## Additional Information
-<p>This project was developed for Digital Image Analysis and Processing course during summer semester of 3rd year of Engineering and Data Analysis program at AGH UST.</p>
+<p>This project was developed for the Digital Image Analysis and Processing course during the summer semester<br> of the 3rd year of the Engineering and Data Analysis program
+  at AGH University.</p>
