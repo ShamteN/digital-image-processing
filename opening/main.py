@@ -4,10 +4,10 @@ from datetime import datetime
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename, asksaveasfile
 
-from opening.src.utils import load_mono_image, load_binary_image, save_image
-from opening.src.element import StructuringElement
-from opening.src.opening import open_image_with_linear_element
-from opening.src.plots import plot_images
+from src.utils import load_mono_image, load_binary_image, save_image
+from src.element import StructuringElement
+from src.opening import open_image_with_linear_element
+from src.plots import plot_images
 
 
 def run(path):
